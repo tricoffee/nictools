@@ -75,7 +75,7 @@ def rotateImg(img,theta):
 
 
 
-filename = "C:/Users/BJ01/Desktop/dog.jpg"
+filename = "C:/Users/Desktop/dog.jpg"
 img = cv2.imread(filename)
 #旋转角度为 theta, 逆时针方向，最终输出逆时针旋转theta度之后的图像
 theta = 30
